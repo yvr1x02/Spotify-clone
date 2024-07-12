@@ -1,0 +1,28 @@
+.nav-btn .btn {
+  margin-right: 30px;
+}
+
+.imgLinks {
+  margin-top: 20px;
+}
+
+.img-fluid {
+  border-radius: 8px;
+}
+
+.bg-container {
+  background-color: #212529;
+}
+
+.playerControls img {
+  margin: 0 5px;
+}
+
+.progress {
+  height: 5px;
+  background-color: #e9ecef;
+}
+
+.progress div {
+  background-color: #28a745;
+}
